@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+yad --title='About RamallahOS' --window-icon='ramallahos' \
+	--about \
+	--pname='RamallahOS' \
+	--pversion="1" \
+	--image='ramallahos' \
+	--comments='A beautifully customized and fast linux distribution, based on Archlinux where "everything" is installed.' \
+	--copyright="Copyright 2022-9999, Safwan Nayeem Yousuf <safwannayeemyousuf.com>" \
+	--license='MIT' \
+	--website='https://ramallahos.blogspot.com/' \
+	--website-label='Website' \
+	--authors="Safwan Nayeem Yousuf <safwannayeemyousuf.com>"

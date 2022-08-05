@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=About RamallahOS
+Comment=About RamallahOS
+Exec=ramallahos-about
+Icon=ramallahos-about
+Type=Application
+Categories=System;
