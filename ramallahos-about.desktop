@@ -2,6 +2,6 @@
 Name=About RamallahOS
 Comment=About RamallahOS
 Exec=ramallahos-about
-Icon=ramallahos-about
+Icon=/usr/share/icons/ramallahos/ramallahos.svg
 Type=Application
 Categories=System;
