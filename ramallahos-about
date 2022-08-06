@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-yad --title='About RamallahOS' --window-icon='ramallahos' \
+yad --title='About RamallahOS' --window-icon=/usr/share/icons/ramallahos.svg \
 	--about \
 	--pname='RamallahOS' \
 	--pversion="1" \
