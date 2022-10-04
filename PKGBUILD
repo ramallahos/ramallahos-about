@@ -15,4 +15,5 @@ package() {
     cd "$pkgname"
     install -Dm 755 "$pkgname" "${pkgdir}/usr/bin/$pkgname"
     install -Dm 644 "$pkgname.desktop" "${pkgdir}/usr/share/applications/$pkgname.desktop"
+    echo $pkgdir
 }
